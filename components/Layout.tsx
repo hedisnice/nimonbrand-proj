@@ -37,7 +37,7 @@ const Layout = ({
 
       {/* Footer */}
       <footer className="bg-[#825437] text-white p-4 text-center">
-        <p>&copy; 2025 Nimon Brand Management</p>
+        <p>&copy; 2025 Warehouse Management</p>
       </footer>
     </div>
   );
